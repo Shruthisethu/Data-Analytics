@@ -1,5 +1,5 @@
 # Data-Analytics
-Projects i worked on during my journey through data analytics
+Projects i worked on during my journey through data analytics....
 
 Project 1 - Prediction of Retail Sales trends using Linear Algebra
 
@@ -14,3 +14,14 @@ Project 3 - Predicting fraudulent transactions using data analytics concepts
 
 Developing a robust system for detecting credit card fraudulent transactions is the primary objective of this task. The approach involves using machine learning and linear algebra techniques to transform transaction data into numerical vectors, feature scaling and applying anomaly detection algorithms to identify the potential fraudulent cases. Additionally, machine learning models are trained and evaluated to classify the fraudulent cases accurately. High accuracy in identifying fraudulent transactions enhances the security and reliability of financial transactions. Recent studies highlight the importance of incorporating advanced machine learning techniques in the financial industry to improve detection rates and reduce false positives.
 
+Project 4 - Insurance data claims
+
+Machine Learning and Predictive analytics are crucial tools in data-informed decision making. Machine learning is the method in which the machines are taught to learn and improve from experience without having to explicitly program them. Predictive analytics combined with machine learning help business to detect market shifts, operational problems and the choices of the customers and empower them with the ability to make an effective decision with tactical planning. Applications of machine learning are seen and used every day, from e-commerce websites and recommendation systems in individualized marketing to fraud detection system in banking. In addition to the above, machine learning gives leading industries an opportunity to grab opportunities, pave way for innovation and mitigate risks.
+
+Framing the problem statement:
+Identifying a business problem is a crucial step in Predictive analytics using Machine Leaning. The business scenario that was selected for predictive analytics focuses on claim management for automobile insurance industry.
+Insurance processing is highly data intensive as it includes several variables and input points. Managing risks, revising the pricing policies and to detect fraudulent claims, predictive analytics is crucial. Insurance industry collects immense amounts of data which includes details on the policyholders(including all demographic information), details of the vehicle, history of claims, etc. Using predictive analytics for insurance claim management gives the insurers the power to automate, use personalized policy adjustments, faster payouts and detect fraud.
+
+Defining the problem statement:
+The addressed problem requires designing and implementing a strong machine learning model which focuses on predicting the insurance claim frequency. This model examines different features which influence a policyholder to make a claim such as length of the policy subscription, age of the vehicle, region density, model of the vehicle, engine of the vehicle, etc. By accurately predicting the likelihood of a claim being filed, the insurance company can efficiently optimize their resources.
+Solving the problem mentioned above will prove to be significantly important in business terrain of an automobile insurance company. With the model designed for this problem, the insurance industry can improve their risk assessment thereby bringing forth a sturdier front. The industry can assess their pricing and provide premium pricing for select policyholders based on the predictions. Potential fraudulent claims can be detected by this machine learning model and so the reducing associated costs for the industry. The insurance processing can be made much more efficient which therefore can guarantee faster payouts. Addressing this problem through predictive analytics with machine learning meets the industry’s goals of enhancing customer satisfaction by providing fair and transparent policy pricing. Applying machine learning models on automobile insurance claims presents an opportunity to improve data driven decision making processes which will prove highly effective to both insurers and policyholders.
